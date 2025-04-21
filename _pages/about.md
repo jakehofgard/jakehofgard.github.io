@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a graduate student at Stanford University, working towards an MS in electrical engineering. At the moment, I'm also applying to PhD programs in applied mathematics. Previously, I completed my undergraduate degree in mathematics, also at Stanford. 
+I'm an incoming mathematics PhD student at UC Berkeley. Previously, I completed my undergraduate degree in mathematics and a master's degree in electrical engineering, both at Stanford University.
 
-My research interests are broadly related to convex optimization, machine learning theory, and the theory of partial differential equations (PDEs). For instance, some of my previous research investigates the convergence of neural network-based PDE solvers for mean-field control problems, and I've recently become quite interested in operator learning for physical problems. You can find more information about my research on my [Google Scholar page](https://scholar.google.com/citations?user=VJcUlLQAAAAJ&hl=en&oi=sra) and in my [CV](../files/Jake_Hofgard_CV_Fall24.pdf). I typically use my legal name, William, for academic purposes.
+My research interests are broadly related to optimization, probability, and partial differential equations (PDEs). For instance, some of my previous research investigates the convergence of neural network-based PDE solvers for mean-field control and reachability problems, and I remain interested in interacting particle systems that arise in both control-theoretic settings and in modern applications of statistical physics. You can find more information about my research on my [Google Scholar page](https://scholar.google.com/citations?user=VJcUlLQAAAAJ&hl=en&oi=sra) and in my [CV](../files/Jake_Hofgard_CV_Fall24.pdf). I typically use my legal name, William, for academic purposes.
 
-When I'm not learning about applied math, I like to spend my time in my home state of Colorado. That isn't always possible, but the hills and coastline near the Bay Area aren't a bad substitute.
+When I'm not learning about math, I like to spend my time in my home state of Colorado. That isn't always possible, but the hills and coastline near the Bay Area aren't a bad substitute.
