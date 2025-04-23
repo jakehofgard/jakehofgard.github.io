@@ -11,7 +11,7 @@ Throughout my undergraduate and graduate studies, I've enjoyed teaching a variet
 
 ### Winter 2025 – Math 51
 
-An introductory course on linear algebra and multivariable calculus, geared towards first-year undergraduates. I held discussion sections (~30 students, twice a week), office hours, and graded exams. You can read students' reviews of my teaching for Math 51 [here](../files/JakeHofgard_math51_reviews.pdf).
+An introductory course on linear algebra and multivariable calculus, geared towards first-year students. I held discussion sections (~30 students, twice a week), office hours, and graded exams. You can read students' reviews of my teaching for Math 51 [here](../files/JakeHofgard_math51_reviews.pdf).
 
 ### Fall 2024 – Math 220A
 
@@ -19,4 +19,4 @@ A graduate-level introduction to the theory of partial differential equations. S
 
 ### Winter 2024 – EE 364A
 
-A graduate-level introduction to convex optimization, with an eye towards applications. Covers the basics of convex analysis and convex duality, many examples from control, statistics, finance, and engineering, and concludes with an introduction to the inner workings of interior point methods. You can read students' reviews of my teaching for EE 364A [here](../files/JakeHofgard_ee364a_reviews.pdf).
+A graduate-level introduction to convex optimization, with an eye towards applications. Covers the basics of convex analysis and  duality, many examples from control, statistics, finance, and engineering, and concludes with an introduction to the inner workings of interior point methods. You can read students' reviews of my teaching for EE 364A [here](../files/JakeHofgard_ee364a_reviews.pdf).
