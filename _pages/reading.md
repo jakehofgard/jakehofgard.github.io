@@ -26,6 +26,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 ### Fiction and Nonfiction
 
+*Saints and Villains* by Denise Giardina.
+
 *My Friends* by Hisham Matar.
 
 *Five Ways to Forgiveness* by Ursula LeGuin.
