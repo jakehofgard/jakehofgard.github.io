@@ -9,6 +9,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
+*[A Mathematical Introduction to Electronic Structure Theory](https://math.berkeley.edu/~linlin/esbook/)* by Lin and Lu.
+
 *[Introduction to a Renormalisation Group Method](https://link.springer.com/book/10.1007/978-981-32-9593-3)* by Bauerschmidt, Brydges, and Slade.
 
 *[Morse Theory](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnmors.pdf)* by Milnor.
