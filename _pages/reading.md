@@ -28,6 +28,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 ### Fiction and Nonfiction
 
+*American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer* by Kai Bird and Martin Sherwin.
+
 *Saints and Villains* by Denise Giardina.
 
 *My Friends* by Hisham Matar.
