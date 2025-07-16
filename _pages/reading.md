@@ -9,6 +9,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
+*[Galois Theory](https://store.doverpublications.com/products/9780486623429?srsltid=AfmBOorO3mk_FSlyqn3Dyi6Vq5D1CYKyg8Oq8IC7tBeYDvyN8iOMzBmQ)* by Artin.
+
 *[Reflected Brownian Motions in the KPZ Universality Class](https://link.springer.com/content/pdf/10.1007/978-3-319-49499-9.pdf)* by Spohn, Ferrari, and Weiss.
 
 *[A Mathematical Introduction to Electronic Structure Theory](https://math.berkeley.edu/~linlin/esbook/)* by Lin and Lu.
