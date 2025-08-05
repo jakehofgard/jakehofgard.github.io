@@ -32,6 +32,10 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 ### Fiction and Nonfiction
 
+*i have wrestled with the way clouds weep* by Judy Nahum.
+
+*The Myth of Sisyphus* by Albert Camus.
+
 *Hiroshima Notes* by Kenzaburō Ōe.
 
 *American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer* by Kai Bird and Martin Sherwin.
