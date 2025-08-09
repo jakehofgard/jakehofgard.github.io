@@ -9,24 +9,26 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
-*[Galois Theory](https://store.doverpublications.com/products/9780486623429?srsltid=AfmBOorO3mk_FSlyqn3Dyi6Vq5D1CYKyg8Oq8IC7tBeYDvyN8iOMzBmQ)* by Artin.
+*[Statistical Field Theory](https://www.damtp.cam.ac.uk/user/tong/sft/sft.pdf)* by David Tong.
 
-*[Reflected Brownian Motions in the KPZ Universality Class](https://link.springer.com/content/pdf/10.1007/978-3-319-49499-9.pdf)* by Spohn, Ferrari, and Weiss.
+*[Galois Theory](https://store.doverpublications.com/products/9780486623429?srsltid=AfmBOorO3mk_FSlyqn3Dyi6Vq5D1CYKyg8Oq8IC7tBeYDvyN8iOMzBmQ)* by Emil Artin.
 
-*[A Mathematical Introduction to Electronic Structure Theory](https://math.berkeley.edu/~linlin/esbook/)* by Lin and Lu.
+<!--*[Reflected Brownian Motions in the KPZ Universality Class](https://link.springer.com/content/pdf/10.1007/978-3-319-49499-9.pdf)* by Spohn, Ferrari, and Weiss.-->
 
-*[Introduction to a Renormalisation Group Method](https://link.springer.com/book/10.1007/978-981-32-9593-3)* by Bauerschmidt, Brydges, and Slade.
+*[A Mathematical Introduction to Electronic Structure Theory](https://math.berkeley.edu/~linlin/esbook/)* by Lin Lin and Jianfeng Lu.
 
-*[Morse Theory](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnmors.pdf)* by Milnor.
+*[Introduction to a Renormalisation Group Method](https://link.springer.com/book/10.1007/978-981-32-9593-3)* by Roland Bauerschmidt, David C. Brydges, and Gordon Slade.
 
-*[Lecture Notes on Quantum Algorithms for Scientific Computation](https://math.berkeley.edu/~linlin/qasc/qasc_notes.pdf)* by Lin.
+*[Morse Theory](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/milnmors.pdf)* by John Milnor.
+
+*[Lecture Notes on Quantum Algorithms for Scientific Computation](https://math.berkeley.edu/~linlin/qasc/qasc_notes.pdf)* by Lin Lin.
 
 
 # 2024
 
-*[Lectures on Optimal Transport](https://link.springer.com/book/10.1007/978-3-031-76834-7)* by Ambrosio, Brué, and Semola.
+*[Lectures on Optimal Transport](https://link.springer.com/book/10.1007/978-3-031-76834-7)* by Luigi Ambrosio, Elia Brué, and Daniele Semola.
 
-*[Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)* by Hatcher.
+*[Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)* by Allen Hatcher.
 
 ---
 
