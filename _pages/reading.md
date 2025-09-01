@@ -34,6 +34,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 ### Fiction and Nonfiction
 
+*Ishmael* by Daniel Quinn.
+
 *A Thousand Splendid Suns* by Khaled Hosseini.
 
 *i have wrestled with the way clouds weep* by Judy Nahum.
