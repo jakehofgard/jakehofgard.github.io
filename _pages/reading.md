@@ -9,6 +9,12 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
+*[The Quantum Many-Body Problem: Methods and Analysis](https://quantumtative.github.io/dissertationLindsey.pdf)* by Michael Lindsey.
+
+*[Principles of Quantum Mechanics](https://en.wikipedia.org/wiki/Principles_of_Quantum_Mechanics)* by by Ramamurti Shankar. 
+
+*[Introduction to Quantum Mechanics](https://en.wikipedia.org/wiki/Introduction_to_Quantum_Mechanics_(book))* by David J. Griffiths.
+
 *[Statistical Field Theory](https://www.damtp.cam.ac.uk/user/tong/sft/sft.pdf)* by David Tong.
 
 *[Galois Theory](https://store.doverpublications.com/products/9780486623429?srsltid=AfmBOorO3mk_FSlyqn3Dyi6Vq5D1CYKyg8Oq8IC7tBeYDvyN8iOMzBmQ)* by Emil Artin.
@@ -26,34 +32,44 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2024
 
+*[A Mathematical Guide to Operator Learning](https://www.sciencedirect.com/science/article/abs/pii/S1570865924000036)* by Nicolas Boullé and Alex Townsend.
+
 *[Lectures on Optimal Transport](https://link.springer.com/book/10.1007/978-3-031-76834-7)* by Luigi Ambrosio, Elia Brué, and Daniele Semola.
 
 *[Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)* by Allen Hatcher.
 
 ---
 
-### Fiction and Nonfiction
+### Non-Academic Reading
+<details>
+<summary style="font-weight:600; font-size:1.1em; margin-bottom:0.5em;">
+  Fiction and Nonfiction
+</summary>
 
-*Ishmael* by Daniel Quinn.
+<div style="margin-left:1.25em; line-height:1.6;">
+  
+- *Ishmael* — Daniel Quinn  
+- *A Thousand Splendid Suns* — Khaled Hosseini  
+- *i have wrestled with the way clouds weep* — Judy Nahum  
+- *The Myth of Sisyphus* — Albert Camus  
+- *Hiroshima Notes* — Kenzaburō Ōe  
+- *American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer* — Kai Bird & Martin Sherwin  
+- *Saints and Villains* — Denise Giardina  
+- *My Friends* — Hisham Matar  
+- *Five Ways to Forgiveness* — Ursula LeGuin  
 
-*A Thousand Splendid Suns* by Khaled Hosseini.
+</div>
+</details>
 
-*i have wrestled with the way clouds weep* by Judy Nahum.
+<details>
+<summary style="font-weight:600; font-size:1.1em; margin-bottom:0.5em;">
+  Mountains
+</summary>
 
-*The Myth of Sisyphus* by Albert Camus.
+<div style="margin-left:1.25em; line-height:1.6;">
+  
+- [This](https://www.nwhikers.net/forums/viewtopic.php?t=8039587) immensely impressive description of family's circumnavigation Mt. Olympus in Washington's Olympic Mountains.
+- [This](https://www.14ers.com/php14ers/tripreport.php?trip=20720) compelling report of climbing all of Wyoming's remote 13ers by Eli Boardman.
 
-*Hiroshima Notes* by Kenzaburō Ōe.
-
-*American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer* by Kai Bird and Martin Sherwin.
-
-*Saints and Villains* by Denise Giardina.
-
-*My Friends* by Hisham Matar.
-
-*Five Ways to Forgiveness* by Ursula LeGuin.
-
-### Mountains
-
-[This](https://www.nwhikers.net/forums/viewtopic.php?t=8039587) immensely impressive description of family's circumnavigation Mt. Olympus in Washington's Olympic Mountains.
-
-[This](https://www.14ers.com/php14ers/tripreport.php?trip=20720) compelling report of climbing all of Wyoming's remote 13ers by Eli Boardman.
+</div>
+</details>
