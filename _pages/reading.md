@@ -40,36 +40,26 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 ---
 
-### Non-Academic Reading
-<details>
-<summary style="font-weight:600; font-size:1.1em; margin-bottom:0.5em;">
-  Fiction and Nonfiction
-</summary>
+### Fiction and Nonfiction
+*Ishmael* by Daniel Quinn
 
-<div style="margin-left:1.25em; line-height:1.6;">
-  
-- *Ishmael* — Daniel Quinn  
-- *A Thousand Splendid Suns* — Khaled Hosseini  
-- *i have wrestled with the way clouds weep* — Judy Nahum  
-- *The Myth of Sisyphus* — Albert Camus  
-- *Hiroshima Notes* — Kenzaburō Ōe  
-- *American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer* — Kai Bird & Martin Sherwin  
-- *Saints and Villains* — Denise Giardina  
-- *My Friends* — Hisham Matar  
-- *Five Ways to Forgiveness* — Ursula LeGuin  
+*A Thousand Splendid Suns* by Khaled Hosseini
 
-</div>
-</details>
+*i have wrestled with the way clouds weep* by Judy Nahum
 
-<details>
-<summary style="font-weight:600; font-size:1.1em; margin-bottom:0.5em;">
-  Mountains
-</summary>
+*The Myth of Sisyphus* by Albert Camus
 
-<div style="margin-left:1.25em; line-height:1.6;">
-  
-- [This](https://www.nwhikers.net/forums/viewtopic.php?t=8039587) immensely impressive description of family's circumnavigation Mt. Olympus in Washington's Olympic Mountains.
-- [This](https://www.14ers.com/php14ers/tripreport.php?trip=20720) compelling report of climbing all of Wyoming's remote 13ers by Eli Boardman.
+*Hiroshima Notes* by Kenzaburō Ōe
 
-</div>
-</details>
+*American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer* by Kai Bird & Martin Sherwin
+
+*Saints and Villains* by Denise Giardina
+
+*My Friends* by Hisham Matar
+
+*Five Ways to Forgiveness* by Ursula LeGuin
+
+### Mountains
+[This](https://www.nwhikers.net/forums/viewtopic.php?t=8039587) immensely impressive description of family's circumnavigation Mt. Olympus in Washington's Olympic Mountains.
+
+[This](https://www.14ers.com/php14ers/tripreport.php?trip=20720) compelling report of climbing all of Wyoming's remote 13ers by Eli Boardman.
