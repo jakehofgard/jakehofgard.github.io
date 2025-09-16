@@ -11,7 +11,7 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 *[The Quantum Many-Body Problem: Methods and Analysis](https://quantumtative.github.io/dissertationLindsey.pdf)* by Michael Lindsey.
 
-*[Principles of Quantum Mechanics](https://en.wikipedia.org/wiki/Principles_of_Quantum_Mechanics)* by by Ramamurti Shankar. 
+*[Principles of Quantum Mechanics](https://en.wikipedia.org/wiki/Principles_of_Quantum_Mechanics)* by Ramamurti Shankar. 
 
 *[Introduction to Quantum Mechanics](https://en.wikipedia.org/wiki/Introduction_to_Quantum_Mechanics_(book))* by David J. Griffiths.
 
