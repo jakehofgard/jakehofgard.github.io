@@ -9,6 +9,10 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
+*[A Short Introduction to the Lindblad Master Equation](https://arxiv.org/abs/1906.04478)* by Daniel Manzano.
+
+*[The Self-Avoiding Walk](https://link.springer.com/book/10.1007/978-1-4614-6025-1)* by Neal Madras and Gordon Slade.
+
 *[The Quantum Many-Body Problem: Methods and Analysis](https://quantumtative.github.io/dissertationLindsey.pdf)* by Michael Lindsey.
 
 *[Principles of Quantum Mechanics](https://en.wikipedia.org/wiki/Principles_of_Quantum_Mechanics)* by Ramamurti Shankar. 
