@@ -9,4 +9,6 @@ When possible, I've attached notes or slides for the talks that I've given recen
 
 # 2025
 
-Coming soon.
+High-Dimensional Scientific Computing Seminar (HDSC), UC Berkeley
+
+Student Probability Seminar, UC Berkeley
