@@ -9,6 +9,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
+*[Log-Concave Sampling](https://chewisinho.github.io/main.pdf)* by Sinho Chewi.
+
 *[A Short Introduction to the Lindblad Master Equation](https://arxiv.org/abs/1906.04478)* by Daniel Manzano.
 
 *[The Self-Avoiding Walk](https://link.springer.com/book/10.1007/978-1-4614-6025-1)* by Neal Madras and Gordon Slade.
