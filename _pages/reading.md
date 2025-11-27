@@ -66,6 +66,6 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 *Five Ways to Forgiveness* by Ursula LeGuin
 
 ### Mountains
-[This](https://www.nwhikers.net/forums/viewtopic.php?t=8039587) immensely impressive description of family's circumnavigation Mt. Olympus in Washington's Olympic Mountains.
+[This](https://www.nwhikers.net/forums/viewtopic.php?t=8039587) immensely impressive description of a family's circumnavigation of Mt. Olympus in Washington's Olympic Mountains.
 
 [This](https://www.14ers.com/php14ers/tripreport.php?trip=20720) compelling report of climbing all of Wyoming's remote 13ers by Eli Boardman.
