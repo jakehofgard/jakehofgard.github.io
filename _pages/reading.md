@@ -47,6 +47,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 ---
 
 ### Fiction and Nonfiction
+*A Constellation of Vital Phenomena* by Anthony Marra
+
 *Ishmael* by Daniel Quinn
 
 *A Thousand Splendid Suns* by Khaled Hosseini
