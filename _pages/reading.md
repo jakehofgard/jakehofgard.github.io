@@ -9,6 +9,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2025
 
+*[A Guide to Feynman Diagrams in the Many-Body Problem](https://store.doverpublications.com/products/9780486670478?srsltid=AfmBOoofRm1kfdn_NUSWh8FVeQdbtiE0YGt88GewoPJC8_HwGm-CCcn-)* by Richard Mattuck.
+
 *[Log-Concave Sampling](https://chewisinho.github.io/main.pdf)* by Sinho Chewi.
 
 *[A Short Introduction to the Lindblad Master Equation](https://arxiv.org/abs/1906.04478)* by Daniel Manzano.
