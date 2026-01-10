@@ -49,6 +49,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 ---
 
 ### Fiction and Nonfiction
+*The Tsar of Love and Techno* by Anthony Marra
+
 *A Constellation of Vital Phenomena* by Anthony Marra
 
 *Ishmael* by Daniel Quinn
