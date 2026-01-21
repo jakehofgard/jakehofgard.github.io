@@ -14,17 +14,3 @@ My research interests are broadly related to probability theory, partial differe
 When I'm not learning about math, I like to spend my time in my home state of Colorado. That isn't always possible, but the hills and coastline near the Bay Area aren't a bad substitute.
 
 [^1]: If you're interested in computational methods for representing symmetry breaking and other phenomena in materials science, you may be looking for my sister, [Elyssa Hofgard](https://ehofgard.github.io/), instead. Elyssa is currently an EECS PhD student at MIT, and I encourage you to check out her research!
-
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="center">
-      <img src="../images/wham.JPG" height="300" /><br />
-      <sub><strong>Vestal Peak at sunrise.</strong></sub>
-    </td>
-    <td style="width: 24px;"></td>
-    <td align="center">
-      <img src="../images/rope_coil.JPG" height="300" /><br />
-      <sub><strong>Climbing on Mt. Tamalpais, taken by my friend Yasna.</strong></sub>
-    </td>
-  </tr>
-</table>
