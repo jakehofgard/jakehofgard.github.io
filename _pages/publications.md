@@ -7,6 +7,10 @@ author_profile: true
 
 This is a (mostly) up-to-date list of my recent publications, which you can also find on my [Google Scholar page](https://scholar.google.com/citations?user=VJcUlLQAAAAJ&hl=en).
 
+# 2026
+
+**William Hofgard**, Asaf Cohen, and Mathieu Laurière, "Operator Learning for Families of Finite-State Mean-Field Games," 2026, [arXiv preprint](https://arxiv.org/abs/2602.13169).
+
 # 2025
 
 Andrew Mastin, **William Hofgard**, and Jean-Paul Watson, "A Formulation for Power Flow Interdiction with Bounded Big-M Values," submitted to <ins>Mathematical Programming</ins>, 2025.
