@@ -7,8 +7,26 @@ author_profile: true
 
 When possible, I've attached notes or slides for the talks that I've given recently, both expository and on my own research.
 
+# 2026
+
+#### Applied PDE Seminar, UC Berkeley (March 2026)
+
+**Title:** Analysis and Learning-Based Methods for Finite-State Mean-Field Games
+
+#### Discrete Analysis Seminar, UC Berkeley (March 2026)
+
+**Title:** [Zero-Freeness for Mean-Field Spin Glasses](../files//DiscreteAnalysisZeroFreeness.pdf)
+
+#### Student Probability Seminar, UC Berkeley (March 2026)
+
+**Title:** Spectral Independence and the Hardcore Model
+
 # 2025
 
-High-Dimensional Scientific Computing Seminar (HDSC), UC Berkeley
+#### High-Dimensional Scientific Computing Seminar (HDSC), UC Berkeley (October 2025)
 
-Student Probability Seminar, UC Berkeley
+**Title:** Fast Renormalization of Tensor Networks
+
+#### Student Probability Seminar, UC Berkeley (October 2025)
+
+**Title:** Concentration of Deterministic Empirical Approximations of Probability Measures
