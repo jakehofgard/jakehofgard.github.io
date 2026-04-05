@@ -7,6 +7,12 @@ author_profile: true
 
 As a I begin my PhD, I aim to catalogue the books and survey papers that I read (at least in part). At the bottom of this page, you can also find some fiction and nonfiction that I've enjoyed recently.
 
+# 2026
+
+*[Course Notes for 6.S891: Algorithmic Counting and Sampling](https://kuikuiliu.github.io/teaching/au2023)* by Kuikui Liu.
+
+*[Physics and Mathematics of Quantum Many-Body Systems](https://link.springer.com/book/10.1007/978-3-030-41265-4)* by Hal Tasaki.
+
 # 2025
 
 *[A Guide to Feynman Diagrams in the Many-Body Problem](https://store.doverpublications.com/products/9780486670478?srsltid=AfmBOoofRm1kfdn_NUSWh8FVeQdbtiE0YGt88GewoPJC8_HwGm-CCcn-)* by Richard Mattuck.
@@ -49,6 +55,8 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 ---
 
 ### Fiction and Nonfiction
+*Harvey Milk: His Lives and Death* by Lillian Faderman
+
 *Cuba: An American History* by Ada Ferrer
 
 *The Tsar of Love and Techno* by Anthony Marra
