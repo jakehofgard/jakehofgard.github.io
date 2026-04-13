@@ -11,7 +11,7 @@ When possible, I've attached notes or slides for the talks that I've given recen
 
 ### Applied PDE Seminar, UC Berkeley (March 2026)
 
-**Title:** Analysis and Learning-Based Methods for Finite-State Mean-Field Games
+**Title:** [Analysis and Learning-Based Methods for Finite-State Mean-Field Games](../files//AppliedPDEMFGs.pdf)
 
 ### Discrete Analysis Seminar, UC Berkeley (March 2026)
 
