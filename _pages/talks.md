@@ -9,6 +9,14 @@ When possible, I've attached notes or slides for the talks that I've given recen
 
 # 2026
 
+### Discrete Analysis Seminar, UC Berkeley (April 2026)
+
+**Title:** [Scaled Subgaussian Vectors are Sums of Gaussians](../files//DiscreteAnalysisGaussianSums.pdf)
+
+### Student Probability Seminar, UC Berkeley (April 2026)
+
+**Title:** [Defining the Spectral Gap of a Nonreversible Markov Chain](../files//StudentProbNonreversible.pdf)
+
 ### Applied PDE Seminar, UC Berkeley (March 2026)
 
 **Title:** [Analysis and Learning-Based Methods for Finite-State Mean-Field Games](../files//AppliedPDEMFGs.pdf)
