@@ -9,6 +9,10 @@ As a I begin my PhD, I aim to catalogue the books and survey papers that I read 
 
 # 2026
 
+*[Quantum Theory for Mathematicians ](https://link.springer.com/book/10.1007/978-1-4614-7116-5)* by Brian Hall.
+
+*[Orthogonal Polynomials and Random Matrices: A Riemann-Hilbert Approach](https://pubs.ams.org/ebooks/cln/003/)* by Percy Deift.
+
 *[Course Notes for 6.S891: Algorithmic Counting and Sampling](https://kuikuiliu.github.io/teaching/au2023)* by Kuikui Liu.
 
 *[Physics and Mathematics of Quantum Many-Body Systems](https://link.springer.com/book/10.1007/978-3-030-41265-4)* by Hal Tasaki.
