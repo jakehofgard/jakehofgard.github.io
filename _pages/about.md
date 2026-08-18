@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year mathematics PhD student at the University of California, Berkeley. Previously, I completed my undergraduate degree in mathematics and a master's degree in electrical engineering, both at Stanford University. I'm currently supported by the NSF GRFP.
+I'm a second-year mathematics PhD student at the University of California, Berkeley. Previously, I completed my undergraduate degree in mathematics and a master's degree in electrical engineering, both at Stanford University. I'm currently supported by the NSF GRFP.
 
-My research interests are broadly related to probability theory, partial differential equations (PDEs), and their many connections. For instance, some of my previous research investigates convergent solvers for the nonlinear PDEs that arise in the study of mean-field games and other interacting particle systems. Currently, I'm growing increasingly interested in sampling from high-dimensional distributions, including those that arise in classical and quantum spin systems. You can find more information about my research on my [Google Scholar page](https://scholar.google.com/citations?user=VJcUlLQAAAAJ&hl=en&oi=sra) and in my [CV](../files/Jake_Hofgard_CV_Winter26.pdf). I typically use my legal name, William, for academic purposes.[^1]
+My research interests are broadly related to probability theory and mathematical physics. Currently, I'm growing increasingly interested in sampling from high-dimensional distributions that arise in classical and quantum spin systems. Some of my previous research investigates convergent solvers for the nonlinear partial differential equations that arise in the study of mean-field games and other interacting particle systems. You can find more information about my research on my [Google Scholar page](https://scholar.google.com/citations?user=VJcUlLQAAAAJ&hl=en&oi=sra) and in my [CV](../files/Jake_Hofgard_CV_Winter26.pdf). In the past, I have used my legal name, William, for academic purposes.[^1]
 
 When I'm not learning about math, I like to spend my time in my home state of Colorado. That isn't always possible, but the hills and coastline near the Bay Area aren't a bad substitute.
 
