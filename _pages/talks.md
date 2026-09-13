@@ -9,6 +9,10 @@ When possible, I've attached notes or slides for the talks that I've given recen
 
 # 2026
 
+### Mathematical AI Seminar, The Fields Institute (September 2026)
+
+**Title:** [Operator Learning for Families of Finite-State Mean-Field Games](https://www.fields.utoronto.ca/talks/Operator-Learning-Families-Finite-State-Mean-Field-Games)
+
 ### Discrete Analysis Seminar, UC Berkeley (April 2026)
 
 **Title:** [Scaled Subgaussian Vectors are Sums of Gaussians](../files//DiscreteAnalysisGaussianSums.pdf)
