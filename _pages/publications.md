@@ -9,6 +9,8 @@ This is a (mostly) up-to-date list of my recent publications, which you can also
 
 # 2026
 
+**Jake Hofgard**, "The Geometry of Lee-Yang Tensors," 2026, [arXiv preprint](https://arxiv.org/abs/2610.09485).
+
 **Jake Hofgard** and Michael Lindsey, "Efficient Mass Matrix Estimation with Gaussian Cooling," 2026, [arXiv preprint](https://arxiv.org/abs/2610.04806).
 
 **Jake Hofgard**, Asaf Cohen, and Mathieu Laurière, "Operator Learning for Families of Finite-State Mean-Field Games," 2026, [arXiv preprint](https://arxiv.org/abs/2602.13169).
