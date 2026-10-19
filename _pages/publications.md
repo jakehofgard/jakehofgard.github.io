@@ -17,7 +17,7 @@ This is a (mostly) up-to-date list of my recent publications, which you can also
 
 # 2025
 
-Andrew Mastin, **Jake Hofgard**, and Jean-Paul Watson, "A Formulation for Power Flow Interdiction with Bounded Big-M Values," to appear in <ins>Mathematical Programming</ins>, 2025.
+Andrew Mastin, **Jake Hofgard**, and Jean-Paul Watson, "A Formulation for Power Flow Interdiction with Bounded Big-M Values," to appear in <ins>Mathematical Programming</ins>, 2025, [preprint](https://optimization-online.org/2026/10/a-formulation-for-power-flow-interdiction-with-bounded-big-m-values/).
 
 # 2024
 **Jake Hofgard**, "Convergence Guarantees for Neural Network-Based Hamilton–Jacobi Reachability," <ins>NeurIPS 2024 Workshop on Data-Driven and Differentiable Simulations, Surrogates, and Solvers (D3S3)</ins>, 2024, [OpenReview](https://openreview.net/forum?id=SH1isYejz9).
